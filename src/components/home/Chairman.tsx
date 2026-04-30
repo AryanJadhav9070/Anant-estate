@@ -22,7 +22,7 @@ const Chairman = () => (
           that the best architecture quietly disappears into life.
         </p>
         <p className="mt-8 text-sm tracking-[0.18em] uppercase text-muted-foreground">
-          — Rajesh Anant, Chairman
+          — Nandkishor Patil, Chairman
         </p>
 
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-y-10 gap-x-6 border-t border-border pt-10">

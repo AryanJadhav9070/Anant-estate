@@ -108,7 +108,7 @@ const About = () => (
           <h2 className="display-lg mt-6">A quiet conviction, patiently kept.</h2>
           <div className="mt-8 hairline" />
           <p className="mt-8 body-lead">
-            Founded in 1995 by Rajesh Anant, the practice began with a single conviction —
+            Founded in 1995 by Nandkishor Patil, the practice began with a single conviction —
             that real estate could be approached with the discipline of architecture, and the
             patience of a craftsman.
           </p>
